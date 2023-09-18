@@ -1,0 +1,47 @@
+.d-flex {
+  display: flex;
+  gap: 246px;
+}
+
+.text-green {
+  color: #23db23;
+}
+.container {
+  margin: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.d-flex-log-logou {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 20px;
+}
+
+.navbar-item {
+  border: none;
+  opacity: 9;
+  cursor: pointer;
+}
+
+.form-card-dflex {
+  display: flex;
+  gap: 20px;
+}
+
+.navbar {
+  margin: 35px 17px 0 28px;
+  padding: 0 0 14px 0;
+}
+
+.activeStatus {
+  background-color: #23db23;
+  padding: 4px;
+  border-radius: 50%;
+  position: absolute;
+  margin: 28px 0 0 36px;
+}
